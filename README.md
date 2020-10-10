@@ -1,3 +1,5 @@
+[![johun204's github stats](https://github-readme-stats.vercel.app/api?username=johun204)](https://github.com/johun204/github-readme-stats)
+
 ### 💻 Skills
  - Languages
     - Python, C, C++, C#, JavaScript, PHP
