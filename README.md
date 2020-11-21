@@ -7,6 +7,7 @@
     - C#
     - JavaScript
     - PHP
+    - SQL
 <!--
 **johun204/johun204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
