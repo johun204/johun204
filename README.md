@@ -1,13 +1,5 @@
 ![johun204's github stats](https://github-readme-stats.vercel.app/api?username=johun204&hide=contribs,prs)
 
-### 💻 Skills
- - Languages
-    - Python
-    - C, C++
-    - C#
-    - JavaScript
-    - PHP
-    - SQL
 <!--
 **johun204/johun204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
